@@ -1,0 +1,1547 @@
+ 
+
+.bg-color {
+    width: 1440px;
+    height: 1959px;
+    background: #F5F5F5;
+    margin: 0 auto;
+}
+
+* {
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+
+.navBAr {
+    width: 1440px;
+    height: 50px;
+    background: #1C79C0;
+    margin: 0 auto;
+}
+
+
+.creditColor {
+    color: #FFA012;
+    font-weight: 400;
+    font-size: 21px;
+    line-height: 32px;
+    font-family: 'Poppins';
+    font-style: normal;
+    margin-top: 9px;
+    margin-bottom: 9px;
+
+}
+
+.secretColor {
+    color:
+        #FFFFFF;
+    font-weight: 400;
+    font-size: 21px;
+    line-height: 32px;
+    font-family: 'Poppins';
+    font-style: normal;
+    margin-bottom: 9px;
+    margin-top: 9px;
+}
+
+.limited-bonus {
+    line-height: 11px;
+    margin-left: 0px;
+}
+
+.brandName {
+    margin-left: 290px;
+
+}
+
+@media only screen and (max-width: 767px) {
+    .bg-color {
+        background: #F5F5F5 !important;
+        margin: 0 auto;
+        width:100% !important;
+        height:100% !important;
+    }
+
+    .navBAr {
+        width: 375px;
+        height: 50px;
+        background: #1C79C0;
+        margin: 0 auto;
+    }
+
+    .banner-work {
+        width: 326.53px !important;
+        height: 140.29px !important;
+        border-radius: 16px;
+        background: #FF0000;
+        margin: 17px 14px 17px 14px;
+    }
+
+    .creditColor {
+        color: #FFA012;
+        font-weight: 400;
+        font-size: 21px;
+        line-height: 32px;
+        font-family: 'Poppins';
+        font-style: normal;
+        margin-top: 0px;
+
+
+
+
+    }
+
+    .banner {
+        margin-left: 0px !important;
+        margin-top: 0px !important;
+        width: 0px !important;
+        height: 0px !important;
+        ;
+        border: none !important;
+        border-radius: 16px;
+        margin-left: 0px !important;
+        margin-top: 0px !important;
+    }
+
+    .nav-icone {
+        width: 24px;
+        height: 24px;
+        margin-bottom: 9px;
+        position: absolute;
+        top: 13px;
+        left: 16px;
+        bottom: 13px;
+
+    }
+
+    .secretColor {
+        color:
+            #FFFFFF;
+        font-weight: 400;
+        font-size: 21px;
+        line-height: 32px;
+        font-family: 'Poppins';
+        font-style: normal;
+        margin-top: 0px;
+
+
+
+
+    }
+
+    .brandName {
+        position: absolute;
+        top: 5px;
+        left: 97px;
+        right: 96px;
+        bottom: 9px;
+        margin: 0 auto;
+
+    }
+
+    .main {
+
+      
+        height:100% !important;
+width: 343px !important;
+ 
+
+        margin: 20px auto !important;
+        margin-bottom: 30px;
+        background: red;
+        border-radius: 16px;
+
+    }
+    .ssn-letter {
+        font-family: 'Inter';
+font-style: italic;
+font-weight: 400;
+font-size: 8px !important;
+line-height: 10px !important;
+color: #FF0000;
+margin-left:-120px !important;
+    }
+    .collection-agency{
+        font-family: 'Inter';
+font-style: normal;
+font-weight: 700;
+font-size: 12px !important;
+line-height: 15px;
+color: #636363;
+text-align: justify !important;
+    }
+    .legalNAme3{
+        width: 283px !important;
+        height: 58px !important;
+        background: #FFFFFF;
+        border: 2px solid #EEEEEE;
+        border-radius: 8px;
+        margin-left:15px;
+        margin-top: 20px;
+    }
+
+    .limited-bonus {
+        line-height: 7px !important;
+    }
+
+    .limited {
+        font-size: 8px !important;
+    }
+
+    .get {
+        font-size: 8px !important;
+        line-height: 0px !important;
+
+    }
+
+    .textdata-2 {
+        font-size: 7px !important;
+        line-height: 0px !important;
+    }
+
+    #textdata {
+        font-size: 7px !important;
+        line-height: 0px !important;
+        margin-top: 4px !important;
+    }
+
+    .proges {
+        background: #ffffff;
+        height: 94px !important;
+        width: 80px !important;
+        position: relative;
+        border-radius: 3px;
+        top: 7px !important;
+        left: -22px;
+    }
+
+    .proges2 {
+        background: #ffffff;
+        height: 100px !important;
+        width: 80px !important;
+        position: relative;
+        border-radius: 3px;
+        top: -88px !important;
+        z-index: 1;
+        left: 41px !important;
+        box-shadow: 2px 4px 6px grey;
+    }
+
+    .proges3 {
+        background: #ffffff;
+        height: 94px !important;
+        width: 80px !important;
+        position: relative;
+        border-radius: 3px;
+        top: -187px !important;
+        left: 94px !important;
+    }
+
+    .circle-2 {
+        top: 26px !important;
+        transform: rotate(-1deg) !important;
+
+    }
+
+    .all-icone {
+        position: absolute;
+        right: 66px;
+        top: 98px;
+        right: 11px !important;
+        z-index: 1;
+    }
+
+    .icone {
+        background: #3FC500;
+        color: white;
+        padding: 0px !important;
+        border: 1px solid rgb(127, 124, 124);
+    }
+
+    .img1 {
+        position: absolute;
+        left: -1px;
+        width: 35px !important;
+        top: 15px;
+    }
+
+    .progress-letter {
+
+        position: absolute;
+        bottom: 18px !important;
+        left: 31px !important;
+        z-index: 1;
+        font-size: 10px !important;
+        line-height: 15px;
+        left: 37px;
+
+    }
+
+    .progress-letter2 {
+        position: absolute;
+        bottom: 18px !important;
+        left: 31px !important;
+        z-index: 1;
+        font-size: 10px !important;
+        line-height: 12px !important;
+        left: 37px;
+
+    }
+
+    .btn {
+        font-size: 5px !important;
+        height: 20px !important;
+        width: 69px !important;
+        padding: 0px !important;
+        border-radius: 2px !important;
+        position: absolute;
+        top: 92px;
+        left: 134px;
+    }
+
+    .good-text-2 {
+        font-size: 5px !important;
+        margin-bottom: 0px !important;
+        position: absolute;
+        top: -13px;
+        left: 5px;
+    }
+
+    .good-text {
+        font-size: 3px !important;
+        line-height: 0px;
+        margin-top: 0px !important;
+        position: absolute;
+        top: 1px;
+        left: 3px;
+
+    }
+
+    .progress-letter3 {
+        position: absolute;
+        bottom: 18px !important;
+        left: 31px !important;
+        z-index: 1;
+        font-size: 10px !important;
+        line-height: 15px;
+        left: 37px;
+
+    }
+
+    .progress-circle {
+        font-size: 20px;
+        margin: 20px;
+        position: absolute;
+        /* so that children can be absolutely positioned */
+        padding: 0;
+        width: 3em !important;
+        height: 3em !important;
+        background-color: gray;
+        border-radius: 50%;
+        line-height: 5em;
+        float: left;
+        transform: rotate(82deg) !important;
+        top: 10px;
+        right: 17px !important;
+        left: -8px !important;
+    }
+
+    .progress-circle:after {
+        border: none;
+        position: absolute;
+        top: 0.35em;
+        left: 0.35em;
+        text-align: center;
+        display: block;
+        border-radius: 50%;
+        width: 2.3em !important;
+        height: 2.3em !important;
+        background-color: white;
+        content: " ";
+    }
+
+    /* Text inside the control */
+    .progress-circle span {
+        position: absolute;
+        line-height: 5em;
+        width: 5em;
+        text-align: center;
+        display: block;
+        color: #53777A;
+        z-index: 2;
+    }
+
+    .left-half-clipper {
+        /* a round circle */
+        border-radius: 50%;
+        width: 5em;
+        height: 5em;
+        position: absolute;
+        /* needed for clipping */
+        clip: rect(0, 5em, 5em, 2.5em);
+        /* clips the whole left half*/
+    }
+
+    /* when p>50, don't clip left half*/
+    .progress-circle.over50 .left-half-clipper {
+        clip: rect(auto, auto, auto, auto);
+    }
+
+    .value-bar {
+        /*This is an overlayed square, that is made round with the border radius,
+        then it is cut to display only the left half, then rotated clockwise
+        to escape the outer clipping path.*/
+        position: absolute;
+        /*needed for clipping*/
+        clip: rect(0, 2.5em, 5em, 0);
+        width: 3em !important;
+        height: 3em !important;
+        border-radius: 50%;
+        border: 8px solid #FFA012;
+        /*The border is 0.35 but making it larger removes visual artifacts */
+        /*background-color: #4D642D;*/
+        /* for debug */
+        box-sizing: border-box;
+
+    }
+
+    .value2-bar {
+        /*This is an overlayed square, that is made round with the border radius,
+        then it is cut to display only the left half, then rotated clockwise
+        to escape the outer clipping path.*/
+        position: absolute;
+        /*needed for clipping*/
+        clip: rect(0, 2.5em, 5em, 0);
+        width: 3em !important;
+        height: 3em !important;
+        border-radius: 50%;
+        border: 8px solid #3FC500;
+        /*The border is 0.35 but making it larger removes visual artifacts */
+        /*background-color: #4D642D;*/
+        /* for debug */
+        box-sizing: border-box;
+
+    }
+
+    .value3-bar {
+        /*This is an overlayed square, that is made round with the border radius,
+        then it is cut to display only the left half, then rotated clockwise
+        to escape the outer clipping path.*/
+        position: absolute;
+        /*needed for clipping*/
+        clip: rect(0, 2.5em, 5em, 0);
+        width: 3em !important;
+        height: 3em !important;
+        border-radius: 50%;
+        border: 8px solid #3FC500;
+        /*The border is 0.35 but making it larger removes visual artifacts */
+        /*background-color: #4D642D;*/
+        /* for debug */
+        box-sizing: border-box;
+
+    }
+
+    /* Progress bar filling the whole right half for values above 50% */
+    .progress-circle.over50 .first50-bar {
+        /*Progress bar for the first 50%, filling the whole right half*/
+        position: absolute;
+        /*needed for clipping*/
+        clip: rect(0, 4em, 4em, 1em);
+        background-color: #FFA012;
+        border-radius: 50%;
+        width: 2.5em !important;
+        height: 2.5em !important;
+    }
+
+
+
+    .progress-circle:not(.over50) .first50-bar {
+        display: none;
+    }
+
+
+    .skipTHeTrip {
+        box-sizing: border-box;
+        height: 508px !important;
+        width: 314px !important;
+        background: #FBF7E9 !important;
+        border: 2.35206px dashed #FFC46B !important;
+        border-radius: 18.8165px !important;
+        margin-top: 159px !important;
+        margin-left: 18px !important;
+    }
+    .skipText{
+       
+ 
+font-family: 'Inter';
+font-style: normal;
+font-weight: 600;
+font-size: 23.5206px !important;
+line-height: 28px !important;
+color: #FFA012;
+margin-top: 16px!important;
+    }
+    .skipParagraph {
+        font-family: 'Inter';
+font-style: normal;
+font-weight: 400;
+font-size: 16.4644px !important;
+line-height: 170%;
+/* or 28px */
+
+
+color: #666666;
+    }
+    .skipLetter {
+        font-family: 'Inter';
+        font-style: normal;
+        font-weight: 400;
+        font-size: 15.2884px !important;
+        line-height: 170%;
+        margin-left: 30px;
+        margin-right: 30px;
+        color: #FF0000;
+    }
+    .quickTrip {
+        height: 39.74372482299805px !important;
+width: 283px !important;
+ 
+
+        background: #FFEFD7;
+        box-shadow: 0px 2px 6px rgb(0 0 0 / 7%);
+        border-radius: 5px;
+        margin-top: 58px !important;
+        margin-bottom: 38px !important;
+        margin-left: -64px !important;
+    }
+    .form-border {
+        height: 0px !important;
+width:0px !important;
+ 
+
+        border:none;
+        border-radius: 16px;
+        margin-left: 30px;
+        
+    }
+    .secondform-border {
+        height:820px !important;
+width: 314px !important;
+        border: 1px solid rgba(16, 16, 16, 0.1);
+        border-radius: 16px;
+        margin: 0 auto;
+        margin-bottom: 21px !;
+        position: relative;
+        margin-left: -76px !important;
+    }
+    .form-select {
+        width: 283px !important;
+height: 35px !important;
+        border: 2px solid #EEEEEE !important;
+        margin: 0 auto;
+        border-radius: 8px;
+    }
+    hr{
+        width: 313px !important;
+    }
+     
+    .form-Automator{
+        width: 286px !important;
+height: 32px !important;
+font-family: 'Poppins';
+font-style: normal;
+font-weight: 400 !important;
+font-size: 21px !important;
+line-height: 32px !important;
+ text-align: center !important;
+ margin-left: -70px;
+color: #636363;
+
+    }
+    hr{
+        margin-left: -75px !important;
+    }
+     .Wizard-two{
+        font-family: 'Inter';
+        font-style: italic;
+        font-weight: 400;
+        font-size: 8px;
+        line-height: 10px;
+        text-align: center;
+        position: absolute;
+        color: #636363;
+        margin-left: -42px;
+        margin-bottom: 23px !important;
+     }
+     .limited{
+        position: absolute;
+width: 299px;
+height: 27px;
+font-family: 'Inter';
+font-style: normal;
+font-weight: 400;
+font-size: 9px;
+line-height: 150%;
+color: #636363;
+ margin-left:55px !important;
+     }
+     .light-icone{
+        margin-left: 10px !important;
+     }
+     .third-border {
+        width: 0px;
+        height: 42px;
+        border: 1px solid #FFFCF7;
+        margin-right: 14px !important;
+    }
+
+    .btn-button {
+    position:absolute !important;
+    left: -115px !important;
+        
+        width:
+            124px;
+        height:
+            28.5px;
+        background: linear-gradient(180deg, #FFC700 0%, #AB8500 100%);
+        border-radius: 6px;
+    
+        font-family: 'Inter';
+        font-style: normal;
+        font-weight: 600;
+        font-size: 10px;
+        line-height: 12px;
+        text-align: center;
+    
+        color: #FFFFFF;
+        top: 745px !important;
+        text-shadow: 0px 1.5px 2px rgba(0, 0, 0, 0.47);
+    }
+    .btn-button1 {
+        position: absolute;
+        left: -28px !important;
+        width: 124px;
+        height: 30px;
+        font-family: Inter;
+        font-style: normal;
+        font-weight: 600;
+        font-size: 10px;
+        line-height: 12px;
+        text-align: center;
+        color: rgb(28, 121, 192);
+        text-shadow: rgb(0 0 0 / 6%) 0px 1.5px 2px;
+        border: 1px solid rgb(28, 121, 192);
+        border-radius: 6px;
+        background: none;
+        top: 745px !important;
+    }
+    .pleaseAns {
+        font-family: 'Inter';
+        font-style: italic;
+        font-weight: 400;
+        font-size: 8px;
+        line-height: 10px;
+        display: flex;
+        align-items: center;
+        color: #636363;
+        margin-left: 90px !important;
+        margin-top: 15px;
+    }
+    .hr2 {
+        width: 283px !important;
+height: 1px;
+ 
+        margin: 0 auto !important;
+        background: #636363;
+        opacity: 0.08;
+        border-radius: 5px;
+        margin-bottom: 30px;
+        margin-top: 15px !important;
+    
+    }
+    .date-part {
+        width: 283px !important;
+        height: 58px;
+        background: #FFFFFF;
+        border: 2px solid #EEEEEE;
+        border-radius: 8px;
+        margin-top: 10px !important;
+        margin-left: -7px !important;
+    }
+    .legalNAme2 {
+        width: 283px !important;
+        height: 58px;
+        background: #FFFFFF;
+        border: 2px solid #EEEEEE;
+        border-radius: 8px;
+       margin-left: 15px !important;
+       margin-top: 20px !important;
+    }
+    .legalNAme {
+        width: 283px !important;
+        height: 58px;
+        background: #FFFFFF;
+        margin-left:15px !important;
+        border: 2px solid #EEEEEE;
+        border-radius: 8px;
+        margin-right: 24px;
+    }
+    .border-address {
+        width: 283px !important;
+        height: 58px;
+        background: #FFFFFF;
+        border: 2px solid #EEEEEE;
+        border-radius: 8px;
+        margin: 0 auto;
+    }
+    .wait{
+        width: 314px !important;
+height:340px !important;
+
+        background: rgb(248, 243, 243);
+        border-radius: 16px;
+        margin-left: 16px !important;
+        margin-top: 1062px !important;
+        
+     }
+     .T-text{
+        margin-left: 6px !important;
+        margin-bottom: 3px !important;
+        color: #cfcdcd;
+     }
+     .inside{
+        font-size: 15px !important;
+        margin-left: -69px !important;
+    }
+    .request{
+        font-size: 15px !important;
+        margin-left: -69px !important;
+
+    }
+    .TransUnion {
+        height: 89px !important;
+        width: 89px !important;
+        background: linear-gradient(0deg, rgb(215, 212, 212) 0%, rgb(232, 231, 231) 100%);
+        box-shadow: 2px 2px 6px grey;
+        margin-top: 5px;
+    }
+    .weakData{
+        font-size:4px !important;
+        margin-left:4px !important;
+    }
+    .valueData{
+        margin-left: 11px !important;
+    }
+    .getNow {
+        width: 191px !important;
+        height: 28px !important;
+        border: 2px solid #1C79C0;
+        border-radius: 20px !important;
+        background: #FFA012;
+        color: #1C79C0;
+        font-weight: bold;
+        position: absolute;
+        bottom:13px !important;
+        left:65px !important;
+    }
+    .re-text{
+        text-align: center;
+        position: absolute;
+        width: 87% !important;
+        color: rgb(184, 179, 179);
+        font-size: 10px !important;
+        margin-left: -33px !important;
+    }
+    .sampol{
+        font-size: 5px !important;
+        margin-left: 13px;
+        color: #cfcdcd;
+    }
+    .icone-play2{
+        transform: rotate(90deg);
+    position: absolute;
+    left: 54px !important;
+    }
+    .allGradientData {
+        margin-left: -33px !important;
+    }
+    .fair {
+        height: 42px !important;
+        width: 65px !important;
+        background: white;
+        margin: 0 auto;
+        border-radius: 5px;
+    }
+    .fairdiv {
+        width: 100% !important;
+        height: 15px !important;
+        background-color: #FFA012;
+        margin-top: 4px !important;
+        color: white;
+        font-weight: bold;
+        border-radius: 0px 0px 5px 5px;
+        font-size: 9px !important;
+    }
+    .ftoor{
+        width: 375px !important;
+height: 72px !important;
+left: 0px;
+     margin: 0 auto;
+    
+    background: #1C79C0;
+     }
+}
+
+
+/* -----------------------------------------------------------------------------Responsive---------- */
+
+ 
+.main {
+    width: 920px;
+    height: 1867px;
+    margin: 40px auto;
+    margin-bottom: 30px;
+    background: #FFFFFF;
+    border-radius: 16px;
+
+}
+
+.dasboard-part {
+    background-image: url(./assets/Group\ 39587.png);
+    width: 267px;
+    height: 309px;
+    top: 46px;
+    left: 30px;
+    bottom: 30px;
+}
+
+.letter-size {
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 18px;
+    line-height: 22px;
+    color: #FFFFFF;
+    margin-left: 14px;
+    text-decoration: none;
+}
+
+.letter-size:hover {
+    color: white;
+}
+
+.banner {
+    width: 556px;
+    height: 258px;
+    border: 1px solid rgba(16, 16, 16, 0.1);
+    border-radius: 16px;
+    margin-left: 327px;
+    margin-top: 46px;
+}
+
+.banner-work {
+    width: 528px;
+    height: 224px;
+    border-radius: 16px;
+    background: #FF0000;
+    margin: 17px 14px 17px 14px;
+}
+
+.proges {
+    background: #ffffff;
+    height: 130px;
+    width: 120px;
+    position: relative;
+    border-radius: 3px;
+    top: 19px;
+    left: -22px;
+}
+
+.circle-2 {
+    top: 26px !important;
+    transform: rotate(-1deg) !important;
+
+}
+
+.proges2 {
+    background: #ffffff;
+    height: 152px;
+    width: 120px;
+    position: relative;
+    border-radius: 3px;
+    top: 9px;
+    z-index: 1;
+    left: -42px;
+    box-shadow: 2px 4px 6px gray;
+}
+
+.all-icone {
+    position: absolute;
+    right: 66px;
+}
+
+.proges3 {
+    background: #ffffff;
+    height: 130px;
+    width: 120px;
+    position: relative;
+    border-radius: 3px;
+    top: 19px;
+    left: -53px;
+
+}
+
+.icone {
+    background: #3FC500;
+    padding: 1px 3px;
+    color: white;
+    border: 1px solid rgb(127, 124, 124);
+}
+
+.progress-letter {
+
+    position: absolute;
+    bottom: 31px;
+    right: 36px;
+    z-index: 1;
+    font-size: 20px;
+    line-height: 15px;
+    left: 37px;
+
+}
+
+.progress-letter2 {
+    position: absolute;
+    bottom: 36px;
+    right: 31px;
+    z-index: 1;
+    font-size: 20px;
+    line-height: 15px;
+
+}
+
+.progress-letter3 {
+    position: absolute;
+    bottom: 32px;
+    right: 35px;
+    z-index: 1;
+    font-size: 20px;
+    line-height: 15px;
+
+}
+
+.progress-circle {
+    font-size: 20px;
+    margin: 20px;
+    position: absolute;
+    /* so that children can be absolutely positioned */
+    padding: 0;
+    width: 5em;
+    height: 5em;
+    background-color: gray;
+    border-radius: 50%;
+    line-height: 5em;
+    float: left;
+    transform: rotate(22deg);
+    top: 10px;
+    right: -11px;
+}
+
+.btn {
+    background-color: yellow;
+    font-size: 10px;
+    border: none;
+    border-radius: 5px;
+    margin-left: 131px;
+    margin-top: 25px;
+    z-index: 1;
+}
+
+.progress-circle:after {
+    border: none;
+    position: absolute;
+    top: 0.35em;
+    left: 0.35em;
+    text-align: center;
+    display: block;
+    border-radius: 50%;
+    width: 4.3em;
+    height: 4.3em;
+    background-color: white;
+    content: " ";
+}
+
+/* Text inside the control */
+.progress-circle span {
+    position: absolute;
+    line-height: 5em;
+    width: 5em;
+    text-align: center;
+    display: block;
+    color: #53777A;
+    z-index: 2;
+}
+
+.left-half-clipper {
+    /* a round circle */
+    border-radius: 50%;
+    width: 5em;
+    height: 5em;
+    position: absolute;
+    /* needed for clipping */
+    clip: rect(0, 5em, 5em, 2.5em);
+    /* clips the whole left half*/
+}
+
+/* when p>50, don't clip left half*/
+.progress-circle.over50 .left-half-clipper {
+    clip: rect(auto, auto, auto, auto);
+}
+
+.value2-bar {
+    /*This is an overlayed square, that is made round with the border radius,
+    then it is cut to display only the left half, then rotated clockwise
+    to escape the outer clipping path.*/
+    position: absolute;
+    /*needed for clipping*/
+    clip: rect(0, 2.5em, 5em, 0);
+    width: 5em;
+    height: 5em;
+    border-radius: 50%;
+    border: 8px solid #3FC500;
+    /*The border is 0.35 but making it larger removes visual artifacts */
+    /*background-color: #4D642D;*/
+    /* for debug */
+    box-sizing: border-box;
+
+}
+
+.value-bar {
+    /*This is an overlayed square, that is made round with the border radius,
+    then it is cut to display only the left half, then rotated clockwise
+    to escape the outer clipping path.*/
+    position: absolute;
+    /*needed for clipping*/
+    clip: rect(0, 2.5em, 5em, 0);
+    width: 5em;
+    height: 5em;
+    border-radius: 50%;
+    border: 8px solid #FFA012;
+    /*The border is 0.35 but making it larger removes visual artifacts */
+    /*background-color: #4D642D;*/
+    /* for debug */
+    box-sizing: border-box;
+
+}
+
+.value3-bar {
+    /*This is an overlayed square, that is made round with the border radius,
+    then it is cut to display only the left half, then rotated clockwise
+    to escape the outer clipping path.*/
+    position: absolute;
+    /*needed for clipping*/
+    clip: rect(0, 2.5em, 5em, 0);
+    width: 5em;
+    height: 5em;
+    border-radius: 50%;
+    border: 8px solid #3FC500;
+    /*The border is 0.35 but making it larger removes visual artifacts */
+    /*background-color: #4D642D;*/
+    /* for debug */
+    box-sizing: border-box;
+
+}
+
+/* Progress bar filling the whole right half for values above 50% */
+.progress-circle.over50 .first50-bar {
+    /*Progress bar for the first 50%, filling the whole right half*/
+    position: absolute;
+    /*needed for clipping*/
+    clip: rect(0, 4em, 4em, 1em);
+    background-color: #FFA012;
+    border-radius: 50%;
+    width: 5em;
+    height: 5em;
+}
+
+.progress-circle.over50 .first50-bar2 {
+    /*Progress bar for the first 50%, filling the whole right half*/
+    position: absolute;
+    /*needed for clipping*/
+    clip: rect(0, 4em, 4em, 1em);
+    background-color: #3FC500;
+    border-radius: 50%;
+    width: 5em;
+    height: 5em;
+}
+
+.progress-circle.over50 .second50-bar {
+    /*Progress bar for the first 50%, filling the whole right half*/
+    position: absolute;
+    /*needed for clipping*/
+    clip: rect(0, 4em, 4em, 1em);
+    background-color: #3FC500;
+    border-radius: 50%;
+    width: 5em;
+    height: 5em;
+}
+
+.progress-circle:not(.over50) .first50-bar {
+    display: none;
+}
+
+
+/*   */
+
+.skipTHeTrip {
+    box-sizing: border-box;
+    width: 267px;
+    height: 510px;
+    background: #FBF7E9;
+    border: 2px dashed #FFC46B;
+    border-radius: 16px;
+    margin-top: 80px;
+    margin-left: 30px;
+}
+
+.skipText {
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 600;
+    font-size: 20px;
+    line-height: 24px;
+    /* Text Color 2 */
+    color: #FFA012;
+    margin-top: 27px;
+    margin-left: 30px;
+    margin-right: 30px;
+}
+
+.skipParagraph {
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 14px;
+    line-height: 170%;
+    margin-left: 30px;
+    margin-right: 30px;
+    /* or 24px */
+
+
+
+}
+
+.skipLetter {
+
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 13px;
+    line-height: 170%;
+    margin-left: 30px;
+    margin-right: 30px;
+    color: #FF0000;
+}
+
+.Getbtn {
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 600;
+    font-size: 16px;
+    line-height: 19px;
+    text-align: center;
+    padding: 9px 37px;
+    color: #FFFFFF;
+    background: linear-gradient(180deg, #FFC700 0%, #AB8500 100%);
+    border-radius: 6px;
+    border: none;
+    margin-left: 30px;
+    margin-right: 30px;
+    margin-bottom: 20px;
+
+
+
+    text-shadow: 0px 1.5px 2px rgba(0, 0, 0, 0.47);
+}
+
+.date-part {
+    width: 230px;
+    height: 58px;
+    background: #FFFFFF;
+    border: 2px solid #EEEEEE;
+    border-radius: 8px;
+}
+
+.legal-name {
+    border: none;
+}
+
+.legalNAme {
+    width: 230px;
+    height: 58px;
+
+    background: #FFFFFF;
+    margin-left: 24px;
+    border: 2px solid #EEEEEE;
+    border-radius: 8px;
+    margin-right: 24px;
+}
+
+.legalNAme2 {
+
+    width: 230px;
+    height: 58px;
+    background: #FFFFFF;
+    border: 2px solid #EEEEEE;
+    border-radius: 8px;
+    margin-left: -1px;
+}
+
+form .form-control:focus {
+    border-color: #EEEEEE;
+    box-shadow: none;
+}
+
+.form-border {
+    width: 556px;
+    height: 897px;
+    border: 1px solid #EEEEEE;
+    border-radius: 16px;
+    margin-left: 91px;
+    margin-top: 30px;
+}
+
+.form-Automator {
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 24px;
+    line-height: 29px;
+    text-align: center;
+    color: #636363;
+    margin-top: 21px;
+    margin-bottom: 24px;
+}
+
+.quickTrip {
+    width: 528px;
+    height: 42px;
+    background: #FFEFD7;
+    box-shadow: 0px 2px 6px rgb(0 0 0 / 7%);
+    border-radius: 5px;
+    margin-top: 31px;
+    margin-bottom: 38px;
+    margin-left: 14px;
+}
+
+hr {
+    width: 528px;
+    height: 1px;
+    background: #101010;
+    opacity: 0.08;
+    border-radius: 5px;
+    margin: 0 auto;
+    margin-bottom: 24px;
+
+}
+
+.Wizard {
+    font-family: 'Inter';
+    font-style: italic;
+    font-weight: 400;
+    font-size: 12px;
+    line-height: 150%;
+    text-align: center;
+    color: #636363;
+    margin-bottom: 24px;
+}
+
+.white-border {
+    width: 13px;
+    height: 42px;
+    background: #FFA012;
+    border-radius: 5px 0px 0px 5px;
+}
+
+.smc {
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 600;
+    font-size: 12px;
+    line-height: 15px;
+    color: #FFA012;
+    margin-left: 17px;
+    margin-right: 46px;
+}
+
+.third-border {
+    width: 0px;
+    height: 42px;
+    border: 1px solid #FFFCF7;
+}
+
+.limited {
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 9px;
+    line-height: 150%;
+    color: #636363;
+    margin-left: 30px;
+    margin-right: 37px;
+    text-align: justify;
+}
+
+.secondform-border {
+    width: 528px;
+    height: 650px;
+    border: 1px solid rgba(16, 16, 16, 0.1);
+    border-radius: 16px;
+    margin: 0 auto;
+    margin-bottom: 21px !;
+    position:relative;
+}
+
+.letter-wi {
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 24px;
+    line-height: 29px;
+    display: flex;
+    align-items: center;
+    color: #636363;
+    margin-top: 24px;
+    margin-left: 24px;
+}
+
+.pleaseAns {
+    font-family: 'Inter';
+    font-style: italic;
+    font-weight: 400;
+    font-size: 8px;
+    line-height: 10px;
+    display: flex;
+    align-items: center;
+    color: #636363;
+    margin-left: 278px;
+}
+
+.hr2 {
+    width: 480px;
+    height: 1px;
+    margin: 0 auto;
+    background: #636363;
+    opacity: 0.08;
+    border-radius: 5px;
+    margin-bottom: 30px;
+    margin-top: 11px;
+}
+
+.date-input1 {
+    margin-left: 24px;
+}
+
+.form-address {
+    border: none;
+
+}
+
+.form-address:focus {
+    border-color: #636363;
+}
+
+.border-address {
+    width: 480px;
+    height: 58px;
+    background: #FFFFFF;
+    border: 2px solid #EEEEEE;
+    border-radius: 8px;
+    margin: 0 auto;
+}
+
+.address-icone {
+    margin-left: 33px;
+}
+
+.form-select {
+    width: 480px ;
+    height: 34px ;
+    border: 2px solid #EEEEEE;
+    margin: 0 auto;
+    border-radius: 8px;
+}
+
+.ssn-letter {
+    font-family: 'Inter';
+    font-style: italic;
+    font-weight: 400;
+    font-size: 8px;
+    line-height: 10px;
+    display: flex;
+    align-items: center;
+    margin-top: 11px;
+    color: #FF0000;
+}
+
+.collection-agency {
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 12px;
+    line-height: 15px;
+    /* identical to box height */
+    margin: 0 auto;
+    color: #636363;
+}
+
+.btn-button {
+    position:absolute;
+    left:-107px;
+    width:
+        124px;
+    height:
+        28.5px;
+    background: linear-gradient(180deg, #FFC700 0%, #AB8500 100%);
+    border-radius: 6px;
+
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 600;
+    font-size: 10px;
+    line-height: 12px;
+    text-align: center;
+
+    color: #FFFFFF;
+
+    text-shadow: 0px 1.5px 2px rgba(0, 0, 0, 0.47);
+}
+
+.btn-button1 {
+    position: absolute;
+    left:30px;
+    width:
+        124px;
+    height:
+        30px;
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 600;
+    font-size: 10px;
+    line-height: 12px;
+    text-align: center;
+
+    color: #1C79C0;
+
+    text-shadow: 0px 1.5px 2px rgba(0, 0, 0, 0.06);
+    border: 1px solid #1C79C0;
+border-radius: 6px;
+background: none;
+}
+.legalNAme3{
+    width: 230px;
+    height: 58px;
+    background: #FFFFFF;
+    border: 2px solid #EEEEEE;
+    border-radius: 8px;
+  
+}
+.gradient{
+    height:20px;
+    width:100px;
+    background: linear-gradient(90deg, rgba(253,38,0,1), rgba(238,221,20,1) 35%, rgba(57,255,0,1) 100%);
+}
+.graient-value {
+    transform: rotate(-89deg);
+}
+
+    .gradient-value-1 {
+        transform: rotate(92deg);
+    }
+    .TransUnion{
+        height:120px;
+        width: 120px;
+        background: linear-gradient(0deg, rgb(215, 212, 212) 0%, rgb(232, 231, 231) 100%);
+        box-shadow: 2px 2px 6px gray;
+        margin-top: 5px;
+       
+    }
+
+.fair{
+   
+    height:64px;
+    width:80px;
+    background: white;
+    margin: 0 auto;
+    border-radius: 5px;
+    
+}
+.fairdiv{
+    width: 100%;
+    height: 24px;
+    background-color: #FFA012;
+    margin-top: 16px;
+    color: white;
+    font-weight: bold;
+    border-radius:0px 0px 5px 5px;
+}
+ .icone-play{
+    transform: rotate(90deg);
+    position: absolute;
+    left: 37px;
+ }
+ .icone-play2{
+    transform: rotate(90deg);
+    position: absolute;
+    left: 80px;
+
+ }
+ .icone-play3{
+    transform: rotate(90deg);
+    position: absolute;
+    left:57px;
+ }
+ .gradent{
+    position: relative;
+ }
+ .wait{
+    width: 563px;
+    height:499px;
+    background: rgb(248, 243, 243);
+    border-radius: 16px;
+    margin-left: 326px;
+    margin-top: 30px;
+ }
+ .allGradientData{
+    margin-left:35px;
+ }
+ .getNow{
+    width: 293px ;
+    height: 41px;
+    border: 2px solid #1C79C0;
+    border-radius:20px;
+    background: #FFA012;
+    color: #1C79C0;
+    font-weight: bold;
+    position: absolute;
+    bottom: 155px;
+    left: 444px;
+ }
+ .sharp-icone{
+    background:#1C79C0 ;
+  padding: 5px;
+    border: 5px;
+    margin-left: 20px;
+    color: white;
+    border-radius: 50%;
+ }
+ .ftoor{
+    width: 1440px;
+height: 45px;
+ margin: 0 auto;
+
+background: #1C79C0;
+ }
+  
+/* --------------------- */
